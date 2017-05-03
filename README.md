@@ -2,7 +2,11 @@
 
 osu! map parser for Unity engine, made just for fun. It can only work with circles position and time set, nothing more. Circle size/approach rate is fixed. No sliders/spinners support. Only one customizable hit sound. Noticeable latency if map is fast.
 
-## How to use
+## Download
+
+[From Github](https://github.com/SkyMidnight/osu_unity-mp/raw/master/osu_mp.unitypackage)
+
+### How to use
 
 1. Open Unity and create 2D project.
 
