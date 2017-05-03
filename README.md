@@ -6,7 +6,13 @@ osu! map parser for Unity engine, made just for fun. It can only work with circl
 
 [From Github](https://github.com/SkyMidnight/osu_unity-mp/raw/master/osu_mp.unitypackage)
 
-### How to use
+### Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nQFNPG0XW5Q
+" target="_blank"><img src="http://img.youtube.com/vi/nQFNPG0XW5Q/0.jpg" 
+alt="YouTube video" width="480" height="320" border="10" /></a>
+
+#### How to use
 
 1. Open Unity and create 2D project.
 
