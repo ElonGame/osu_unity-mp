@@ -49,3 +49,8 @@ alt="YouTube video" width="480" height="320" border="10" /></a>
 9. Run and enjoy!
 
 ![Wow that's cool tho](/images/9.png)
+
+##### Credits
+
+Skin - ["Android Lollipop" (old) by "-makoto yuki"](https://osu.ppy.sh/forum/t/329808)
+Used songpack - ["xi - Ascension to Heaven" mapped by Kroytz](https://osu.ppy.sh/s/368060)
